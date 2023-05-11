@@ -1,3 +1,5 @@
+Construction of Fencing (5607 rft) using Square PCC Fence Posts and G.I Barbed Wire (5 Strands with 2 Criss Cross) at RDF Co.77/Udil Pty. Chingam-C SF Range Kishtwar Div. Doda AITenderID 2370541 AIChunkId 6004798
+
 
 To host your Flask API on a private server within your organization, you'll need to follow these steps:
 
